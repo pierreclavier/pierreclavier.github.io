@@ -1,10 +1,17 @@
 <nav class="navbar navbar-expand-xl navbar-light fixed-top navbar-custom {% if page.nav-short %}top-nav-short-permanent{% else %}top-nav-regular{% endif %}">
 
-  {%- if site.title-img -%}
-    <a class="navbar-brand navbar-brand-logo" href="{{ 'aboutme' | absolute_url }}"><img alt="{{ site.title }} Logo" src="{{ site.title-img | relative_url}}"/></a>
+  <!-- {%- if site.title-img -%}
+    <a class="navbar-brand navbar-brand-logo" href="{{ '' | absolute_url }}"><img alt="{{ site.title }} Logo" src="{{ site.title-img }}"/></a>
   {%- elsif site.title -%}
-    <a class="navbar-brand" href="{{ 'aboutme' | absolute_url }}">{{ site.title }}</a>
-  {%- endif -%}
+    <a class="navbar-brand" href="{{ '' | absolute_url }}">{{ site.title }}</a>
+  {%- endif -%} --!>
+   <!-- Change the website title in the upper-left corner to link to the About Me page, rather than the index/blog page -->
+   {%- if site.title-img -%}
+     <a class="navbar-brand navbar-brand-logo" href="{{ 'aboutme' | absolute_url }}"><img src="{{ site.title-img }}"/></a>
+   {%- else -%}
+     <a class="navbar-brand" href="{{ 'aboutme' | absolute_url }}">{{ site.title }}</a>
+   {%- endif -%}
+    </div>
 
 
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#main-navbar" aria-controls="main-navbar" aria-expanded="false" aria-label="Toggle navigation">
