@@ -15,7 +15,9 @@ author: Pierre Clavier
 
 navbar-links:
   About Me: "aboutme"
-  Teaching:
+  Research: "research"
+  Teaching: "teaching"
+  
   Project:
     
     - Alcov2 : http://www.cnrs.fr/fr/alcov2-une-enquete-de-grande-ampleur-pour-letude-de-la-transmission-de-sars-cov2-au-sein-des-foyers
