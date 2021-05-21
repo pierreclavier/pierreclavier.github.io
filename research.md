@@ -12,7 +12,7 @@ show-avatar: True
 ## Conferences
 
 
-* P. Clavier et al. , "Alcov2: A National Questionnaire Survey for Understanding the Transmission of SARS-CoV-2.". **Colloque Données de santé en vie réelle, DSVR 2020** ([link](https://www.afcros.com/evenements/colloque-donnees-de-sante-en-vie-reelle/)
+* P. Clavier , "Alcov2: A National Questionnaire Survey for Understanding the Transmission of SARS-CoV-2.". **Colloque Données de santé en vie réelle, DSVR 2020** ([link](https://www.afcros.com/evenements/colloque-donnees-de-sante-en-vie-reelle/)
 
 <p>&nbsp;</p>
 
