@@ -15,7 +15,7 @@ My current intership is focused on application of Reinforcement Learning for opt
 
 Previously I have worked in a project, [Alcov2](https://www.college-de-france.fr/site/actualites/Alcov2-Enquete-pour-l-etude-de-la-transmission-de-SARS-Cov2-au-sein-des-foyers-francais.htm) on prediction of probability of transmission of Covid 19 of into French houseold under supervision of [Grégory Nuel](http://nuel.perso.math.cnrs.fr/) and [Amaury Lambert](https://www.lpsm.paris/pageperso/amaury.lambert/).
  
-Previously in 2020, I did a Master of Applied Mathematics from [KTH, Royal Institut of Technology](https://www.kth.se/en), Stockholm. At the same time, I obtained an engineering degree at [Ecole Centrale de Lille](https://centralelille.fr/). 
+In 2020, I did a Master of Applied Mathematics from [KTH, Royal Institut of Technology](https://www.kth.se/en), Stockholm. At the same time, I obtained an engineering degree at [Ecole Centrale de Lille](https://centralelille.fr/). 
 
 
 
