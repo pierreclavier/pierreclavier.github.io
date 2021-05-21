@@ -18,7 +18,7 @@ show-avatar: True
 <p>&nbsp;</p>
 
 
-## Theses
+## Thesis
 
 * P. Clavier. "Sum-Product Network in the context of missing data". **Master Thesis**, 2020 ([PDF](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1414624&dswid=9379))
 
