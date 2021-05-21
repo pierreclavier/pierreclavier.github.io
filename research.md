@@ -6,24 +6,18 @@ show-avatar: True
 
 ## Publications
 
-* T. Moins, J. Arbel, A. Dutfoy & S. Girard. Discussion of "Rank-Normalization, Folding, and Localization: An Improved $\hat{R}$ for Assessing Convergence of MCMC" by Vehtari et al. **Bayesian Analysis**, 2021 ([PDF](https://hal.inria.fr/hal-03222934))
-
-* T. Moins, D. Aloise & S. Blanchard. "RecSeats: A Hybrid Convolutional Neural Network Choice Model for Seat Recommendations at Reserved Seating Venues". **RecSys**, 2020 ([link](https://recsys.acm.org/recsys20/), [PDF](http://www.perceptionstudies.com/papers/Moins_2020.pdf), [HTML](https://dl.acm.org/doi/fullHtml/10.1145/3383313.3412263)). 
+* Clavier Pierre, Bouaziz Olivier, Nuel Gregory. "Gaussian Sum-Product Networks Learning in the Presence of Interval Censored Data" **Proceedings of the 10th International Conference on Probabilistic Graphical Models**, 2020. ([PDF](http://proceedings.mlr.press/v138/pierre20a.html))
 
 
 ## Conferences
 
-* T. Moins, J. Arbel, A. Dutfoy & S. Girard. Talk: "A Bayesian Framework for Poisson Process Characterization of Extremes with Uninformative Prior" **CMStats 2021** ([link](http://www.cmstatistics.org/conferences.php))
 
-* T. Moins, J. Arbel, A. Dutfoy & S. Girard. Talk: "A Bayesian Framework for Poisson Process Characterization of Extremes with Uninformative Prior" **ISBA 2021** ([link](https://events.stat.uconn.edu/ISBA2021/)) 
-
-* T. Moins, J. Arbel, A. Dutfoy & S. Girard. "On reparameterisations of the Poisson process model for extremes in a Bayesian framework". **JDS 2021** ([link](https://jds2021.sciencesconf.org/), *PDF Soon*)
+* P. Clavier et al. , "Alcov2: A National Questionnaire Survey for Understanding the Transmission of SARS-CoV-2.". **Colloque Données de santé en vie réelle, DSVR 2020** ([link](https://www.afcros.com/evenements/colloque-donnees-de-sante-en-vie-reelle/)
 
 <p>&nbsp;</p>
 
 
 ## Theses
 
-* T. Moins. "Modèle hybride combinant réseau de neurones convolutifs et modèle basé sur le choix pour la recommandation de sièges". **Mémoire de maîtrise recherche, Polytechnique Montréal**, 2020 ([PDF](https://publications.polymtl.ca/5336/))
+* P. Clavier. "Sum-Product Network in the context of missing data". **Master Thesis**, 2020 ([PDF](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1414624&dswid=9379))
 
-* T. Moins, F. Forbes, V. Stoppin-Mellet. "Détection de signaux émis par des protéines lors d’une expérience de localisation de particules uniques" **Internship, Inria Grenoble**, 2018 ([PDF](https://hal.inria.fr/hal-02970036)) 
