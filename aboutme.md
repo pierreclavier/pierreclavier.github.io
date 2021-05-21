@@ -8,11 +8,18 @@ show-avatar: False
 <img style="float: right;" src="/assets/img/pierre_photo.jpg" width="220" hspace="30" vspace="30">
 
 
-Hi! I am a Master student at [ENS Paris Saclay](https://www.inria.fr/fr/centre-inria-grenoble-rhone-alpes) in [Mathematics and Machine Learning](https://team.inria.fr/statify/) t, advised by [Julyan Arbel](https://www.julyanarbel.com/), [Stéphane Girard](http://mistis.inrialpes.fr/people/girard/), and Anne Dutfoy.
+Hello! I am Master student in Mathematics and Machine Learning at [MVA](https://www.master-mva.com/) in [ENS Paris Saclay](https://ens-paris-saclay.fr/), I am currently doing an intership in Reiforcement Learning at [CMAP](https://portail.polytechnique.edu/cmap/fr/page-daccueil) in [Ecole Polytechnique](https://www.polytechnique.edu/) advised by [Stéphanie Allassonnière](https://sites.google.com/site/stephanieallassonniere/) at Université of Paris and [Erwan Le Pennec](http://www.cmap.polytechnique.fr/~lepennec/fr/) at Ecole Polytechnique. 
 
-I am interested by systems at the intersection of statistics and computation, to have analytical insights on real-world applications. 
-My PhD is funded by EDF R&D : I investigate how to combine bayesian computation with statistics of extreme values for the analysis of environmental data. 
-Before, in 2020, I did a Master at [Polytechnique Montréal](https://www.polymtl.ca/) with [Daniel Aloise](https://www.polymtl.ca/expertises/aloise-daniel) where I explore methods to predict locational choices of a customer in a hall.
-At the same time, I obtained an engineering degree at [Ensimag](https://ensimag.grenoble-inp.fr/) (Grenoble).
+I am interested by systems at the intersection of mathematics and computation, to have analytical insights on real-world applications and especially Medecine and Biology.
+My current intership is focused on application of Reinforcement Learning for optimisation of medical trajectory to avoid diagnostic wandering in rare diseases.
+
+Previously I have worked in a project, [Alcov2](https://www.college-de-france.fr/site/actualites/Alcov2-Enquete-pour-l-etude-de-la-transmission-de-SARS-Cov2-au-sein-des-foyers-francais.htm) on prediction of 
+ 
+Previously in 2020, I did a Master of Applied Mathematics from [KTH, Royal Institut of Technology](https://www.kth.se/en), Stockholm. At the same time, I obtained an engineering degree at [Ecole Centrale de Lille](https://centralelille.fr/). 
+
+
+
+
+
 
 
