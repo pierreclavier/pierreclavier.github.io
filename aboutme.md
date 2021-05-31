@@ -6,7 +6,6 @@ show-avatar: False
 ---
 
 <img style="float: right;" src="/assets/img/pierre_photo.jpg" width="300" hspace="30" vspace="30">
-
  <p align="center">
 
 
