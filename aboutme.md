@@ -11,7 +11,7 @@ Hello! I am Master a student in Mathematics and Machine Learning at [MVA](https:
 {: style="text-align: justify"}
 
 I am interested in systems at the intersection of mathematics and computation, to have analytical insights on real-world applications and especially Medecine and Biology.
-My current intership is focused on application of Reinforcement Learning for optimisation of medical trajectory to avoid diagnostic wandering in rare diseases. I also have a great interest in Computational Statistics, Probabilistic Graphical Models and Unsupervised Learning and its application into Biomedical field.
+My current internship is focused on application of Reinforcement Learning for optimisation of medical trajectory to avoid diagnostic wandering in rare diseases. I also have a great interest in Computational Statistics, Probabilistic Graphical Models and Unsupervised Learning and its application into Biomedical field.
 {: style="text-align: justify"}
 
 Previously I have worked in a project, [Alcov2](https://www.college-de-france.fr/site/actualites/Alcov2-Enquete-pour-l-etude-de-la-transmission-de-SARS-Cov2-au-sein-des-foyers-francais.htm) on prediction of probability of transmission of Covid 19 of into French household under supervision of [Grégory Nuel](http://nuel.perso.math.cnrs.fr/) and [Amaury Lambert](https://www.lpsm.paris/pageperso/amaury.lambert/).
