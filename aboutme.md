@@ -6,7 +6,7 @@ show-avatar: False
 ---
 
 <img style="float: right;" src="/assets/img/pierre_photo.jpg" width="300" hspace="30" vspace="30">
- <p align="center">
+<p align="center">
 
 
 Hello! I am Master student in Mathematics and Machine Learning at [MVA](https://www.master-mva.com/) in [ENS Paris Saclay](https://ens-paris-saclay.fr/), I am currently doing an intership in Reiforcement Learning at [CMAP](https://portail.polytechnique.edu/cmap/fr/page-daccueil) in [Ecole Polytechnique](https://www.polytechnique.edu/) supervised by [Stéphanie Allassonnière](https://sites.google.com/site/stephanieallassonniere/) at Université of Paris and [Erwan Le Pennec](http://www.cmap.polytechnique.fr/~lepennec/fr/) at Ecole Polytechnique. 
