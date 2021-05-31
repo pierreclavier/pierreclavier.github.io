@@ -7,7 +7,7 @@ show-avatar: False
 
 <img style="float: right;" src="/assets/img/pierre_photo.jpg" width="300" hspace="30" vspace="30">
 {: style="text-align: justify"}
-Hello! I am Master student in Mathematics and Machine Learning at [MVA](https://www.master-mva.com/) in [ENS Paris Saclay](https://ens-paris-saclay.fr/), I am currently doing an intership in Reiforcement Learning at [CMAP](https://portail.polytechnique.edu/cmap/fr/page-daccueil) in [Ecole Polytechnique](https://www.polytechnique.edu/) supervised by [Stéphanie Allassonnière](https://sites.google.com/site/stephanieallassonniere/) at Université of Paris and [Erwan Le Pennec](http://www.cmap.polytechnique.fr/~lepennec/fr/) at Ecole Polytechnique.
+Hello! I am Master a student in Mathematics and Machine Learning at [MVA](https://www.master-mva.com/) in [ENS Paris Saclay](https://ens-paris-saclay.fr/), I am currently doing an intership in Reinforcement Learning at [CMAP](https://portail.polytechnique.edu/cmap/fr/page-daccueil) in [Ecole Polytechnique](https://www.polytechnique.edu/) supervised by [Stéphanie Allassonnière](https://sites.google.com/site/stephanieallassonniere/) at Université of Paris and [Erwan Le Pennec](http://www.cmap.polytechnique.fr/~lepennec/fr/) at Ecole Polytechnique.
 {: style="text-align: justify"}
 
 I am interested in systems at the intersection of mathematics and computation, to have analytical insights on real-world applications and especially Medecine and Biology.
