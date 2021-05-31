@@ -10,7 +10,7 @@ show-avatar: False
 Hello! I am a Master student in Mathematics and Machine Learning at [MVA](https://www.master-mva.com/) in [ENS Paris Saclay](https://ens-paris-saclay.fr/), I am currently doing an internship in Reinforcement Learning at [CMAP](https://portail.polytechnique.edu/cmap/fr/page-daccueil) in [Ecole Polytechnique](https://www.polytechnique.edu/) supervised by [Stéphanie Allassonnière](https://sites.google.com/site/stephanieallassonniere/) at Université of Paris and [Erwan Le Pennec](http://www.cmap.polytechnique.fr/~lepennec/fr/) at Ecole Polytechnique.
 {: style="text-align: justify"}
 
-I am interested in systems at the intersection of mathematics and computation, in having have analytical insights on real-world applications, especially Medecine and Biology.
+I am interested in systems at the intersection of mathematics and computation, in having analytical insights on real-world applications, especially Medecine and Biology.
 My current internship is focused on application of Reinforcement Learning for optimisation of medical trajectory to avoid diagnostic wandering in rare diseases. I also have a great interest in Computational Statistics, Probabilistic Graphical Models and Unsupervised Learning and its application into the Biomedical field.
 {: style="text-align: justify"}
 
