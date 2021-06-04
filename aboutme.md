@@ -11,6 +11,7 @@ Hello! I am a Master student in Mathematics and Machine Learning at [MVA](https:
 {: style="text-align: justify"}
 
 You can find a version of my Curriculum Vitae [here.]({{ site.baseurl }}/docs/CV_Pierre_Clavier_git.pdf)
+[Master thesis (2018)]({{ site.baseurl }}/docs/CV_Pierre_Clavier_git.pdf)
 {: style="text-align: justify"}
 
 I am interested in systems at the intersection of mathematics and computation, in having analytical insights on real-world applications, especially Medecine and Biology.
