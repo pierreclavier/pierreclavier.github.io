@@ -7,16 +7,16 @@ show-avatar: False
 
 <img style="float: right;" src="/assets/img/pierre_photo.jpg" width="300" hspace="30" vspace="30">
 {: style="text-align: justify"}
-Hello! I am currently a PhD candidate in Applied Mathematics and Machine Learning. My subject is on Reinforcement Learning for Biomedical data. I am working at [CMAP](https://portail.polytechnique.edu/cmap/fr/page-daccueil) in [Ecole Polytechnique](https://www.polytechnique.edu/) supervised by [Stéphanie Allassonnière](https://sites.google.com/site/stephanieallassonniere/) at Université of Paris and [Erwan Le Pennec](http://www.cmap.polytechnique.fr/~lepennec/fr/) at Ecole Polytechnique. Before this I was a Master student in  Mathematics and Machine Learning at [MVA](https://www.master-mva.com/) in [ENS Paris Saclay](https://ens-paris-saclay.fr/),
+Hello! I am currently a PhD candidate in Applied Mathematics and Machine Learning. I am working at [CMAP](https://portail.polytechnique.edu/cmap/fr/page-daccueil) in [Ecole Polytechnique](https://www.polytechnique.edu/) supervised by [Stéphanie Allassonnière](https://sites.google.com/site/stephanieallassonniere/) at Université of Paris and [Erwan Le Pennec](http://www.cmap.polytechnique.fr/~lepennec/fr/) at Ecole Polytechnique. Before this ,I was a Master student in Mathematics and Machine Learning at [MVA](https://www.master-mva.com/) in [ENS Paris Saclay](https://ens-paris-saclay.fr/),
 {: style="text-align: justify"}
 
 You can find a version of my Curriculum Vitae [here.](https://github.com/pierreclavier/pierreclavier.github.io/tree/master/docs/CV_Pierre_Clavier_git.pdf){:target="_blank"}
 {: style="text-align: justify"}
 
 I am interested in systems at the intersection of mathematics and computation, in having analytical insights on real-world applications, especially Medecine and Biology.
-My current PhD  subject is focused on application of ** Distributional Reinforcement Learning** for optimisation of medical trajectory to avoid diagnostic wandering in rare diseases. I also have a great interest in :
+My current PhD  subject is focused on application of **Distributional Reinforcement Learning** for optimisation of medical trajectory to avoid diagnostic wandering in rare diseases. I also have a great interest in :
 - **Computational Statistics**
-- **Probabilistic Graphical Models **
+- **Probabilistic Graphical Models**
 - **Unsupervised Learning**. 
 {: style="text-align: justify"}
 
