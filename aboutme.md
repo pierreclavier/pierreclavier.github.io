@@ -10,7 +10,7 @@ show-avatar: False
 Hello! I am currently a PhD candidate in Applied Mathematics and Machine Learning. I am working at [CMAP](https://portail.polytechnique.edu/cmap/fr/page-daccueil) in [Ecole Polytechnique](https://www.polytechnique.edu/) supervised by [Stéphanie Allassonnière](https://sites.google.com/site/stephanieallassonniere/) at Université of Paris and [Erwan Le Pennec](http://www.cmap.polytechnique.fr/~lepennec/fr/) at Ecole Polytechnique. Before this, I was a Master student in Mathematics and Machine Learning at [MVA](https://www.master-mva.com/) in [ENS Paris Saclay](https://ens-paris-saclay.fr/),
 {: style="text-align: justify"}
 
-You can find a version of my Curriculum Vitae [here.](https://github.com/pierreclavier/pierreclavier.github.io/tree/master/docs/CV_Pierre_Clavier_git.pdf){:target="_blank"}
+You can find a version of my Curriculum Vitae [here.](/assets/img/CV_Pierre_Clavier.pdf){:target="_blank"}
 {: style="text-align: justify"}
 
 I am interested in systems at the intersection of mathematics and computation, in having analytical insights on real-world applications, especially Medecine and Biology.
