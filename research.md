@@ -23,7 +23,7 @@ show-avatar: True
 ## Thesis
 
 
-* P. Clavier. "Optimisation of medical trajectory to avoid diagnostic wandering in rare diseases". **Master Thesis**, 2021 ([PDF](/assets/img/RAPPORT CLAVIER PIERRE.pdf){:target="_blank"})
+* P. Clavier. "Optimisation of medical trajectory to avoid diagnostic wandering in rare diseases". **Master Thesis**, 2021 ([PDF](/assets/img/Clavier_rapport.pdf){:target="_blank"})
 {: style="text-align: justify"}
 
 * P. Clavier. "Sum-Product Network in the context of missing data". **Master Thesis**, 2020 ([PDF](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1414624&dswid=9379){:target="_blank"})
