@@ -4,7 +4,7 @@ title: Teaching
 show-avatar: True
 ---
 
-I am several experiences as teaching asssitant :
+I have several experiences as teaching asssitant :
 
 ### Ecole Polytechnique (2021-2022)
 
