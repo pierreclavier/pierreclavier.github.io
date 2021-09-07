@@ -15,7 +15,7 @@ I am several experiences as teaching asssitant :
 
 ### Université de Paris (2020)
 
-* Mathematical Analysis, 3rd year of Bachelor Level.
+* Mathematical Analysis, 3rd year of Bachelor.
 
 <p>&nbsp;</p>
 
