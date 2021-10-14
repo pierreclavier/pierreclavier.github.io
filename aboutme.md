@@ -22,10 +22,6 @@ My current PhD  subject is focused on application of **Distributional Reinforcem
 
 Previously I have worked in a project, [Alcov2](https://www.college-de-france.fr/site/actualites/Alcov2-Enquete-pour-l-etude-de-la-transmission-de-SARS-Cov2-au-sein-des-foyers-francais.htm) on prediction of probability of transmission of Covid 19 into French households under supervision of [Grégory Nuel](http://nuel.perso.math.cnrs.fr/) and [Amaury Lambert](https://www.lpsm.paris/pageperso/amaury.lambert/).
 {: style="text-align: justify"}
- 
-In 2020, I did a Master of Applied Mathematics at [KTH, Royal Institut of Technology](https://www.kth.se/en), Stockholm. I have written a Master Thesis on Sum-Product Networks supervised by [Grégory Nuel](http://nuel.perso.math.cnrs.fr/) and [Olivier Bouaziz](https://helios.mi.parisdescartes.fr/~obouaziz/index.html). At the same time, I obtained an engineering degree at [Ecole Centrale de Lille](https://centralelille.fr/). 
-{: style="text-align: justify"}
-
 
 
 
