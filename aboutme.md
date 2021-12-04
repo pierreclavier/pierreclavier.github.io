@@ -14,7 +14,7 @@ You can find a version of my Curriculum Vitae [here.](/assets/img/CV_Pierre_Clav
 {: style="text-align: justify"}
 
 I am interested in systems at the intersection of mathematics and computation, in having analytical insights on real-world applications, especially Medecine and Biology.
-My current PhD  subject is focused on application of **Reinforcement Learning** for optimisation of medical trajectory to avoid diagnostic wandering in rare diseases. I also have a great interest in :
+My current PhD  subject is focused on application of **Reinforcement Learning** for optimisation of medical trajectory to avoid diagnostic wandering in rare diseases. I also have a great interest in:
 - **Robust Reinforcement Learning**
 - **Computational Statistics**
 - **Probabilistic Graphical Models.**
