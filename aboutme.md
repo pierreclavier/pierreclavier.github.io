@@ -13,6 +13,9 @@ Hello! I am currently a PhD candidate in Statistics and Machine Learning. I am w
 You can find a version of my Curriculum Vitae [here.](/assets/img/CV_Pierre_Clavier.pdf){:target="_blank"}
 {: style="text-align: justify"}
 
+
+
+
 I'm also organising a [junior seminar](https://seminairedoctorantcrc.github.io/aboutme/) at PariSanté Campus with Linus Bleistein dealing with interaction between mathematics and healthcare. Don't hesite to contact me if you want participate or present your work !
 
 I am interested in systems at the intersection of mathematics and computation, in having analytical insights on real-world applications, especially Medecine and Biology.
