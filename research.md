@@ -13,12 +13,12 @@ show-avatar: True
 
 ## Conferences and Talks
 
-* P. Clavier, "Some relations between Risk-Averse and Robust Reinforcement Learning". **Inria Heka seminar.** January 2022
+* P. Clavier, "Some relations between Risk-Averse and Robust Reinforcement Learning". **Inria Heka seminar, January 2022** 
 
 * P. Clavier , "Alcov2: A National Questionnaire Survey for Understanding the Transmission of SARS-CoV-2.". **Colloque Données de santé en vie réelle, DSVR 2020** ([link](https://www.afcros.com/evenements/colloque-donnees-de-sante-en-vie-reelle/){:target="_blank"})
 {: style="text-align: justify"}
 
-* P. Clavier, G. Nuel  "Alcov2 survey exploration and statistical raking." **Stochastic and Biology Group Workshop, LPSM, Sorbonne Université**, Paris, April 2020.
+* P. Clavier, G. Nuel  "Alcov2 survey exploration and statistical raking." **Stochastic and Biology Group Workshop, LPSM, Sorbonne Université, Paris, April 2020.**, 
 
 
 <p>&nbsp;</p>
