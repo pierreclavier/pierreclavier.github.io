@@ -4,6 +4,12 @@ title: Teaching
 show-avatar: True
 ---
 
+### Students 
+
+**Elie Attian** : Bachelor Thesis : Risk-Averse Reinforcement Learning for medical applications.
+
+
+
 I have several experiences as teaching asssitant :
 
 ### Ecole Polytechnique (2021-2022)
