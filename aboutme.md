@@ -20,7 +20,7 @@ I'm also organising a [junior seminar](https://seminairedoctorantcrc.github.io/a
 
 I am interested in systems at the intersection of mathematics and computation, in having analytical insights on real-world applications, especially Medecine and Biology.
 My current PhD  subject is focused on application of **Reinforcement Learning** for optimisation of medical trajectory to avoid diagnostic wandering in rare diseases. I also have a great interest in:
-- **Robust Reinforcement Learning**
+- **Robust and Risk-Averse Reinforcement Learning**
 - **Computational Statistics**
 - **Probabilistic Graphical Models.**
  
