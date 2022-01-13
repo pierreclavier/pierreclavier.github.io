@@ -6,7 +6,7 @@ show-avatar: True
 
 ## Publications
 
-* Clavier Pierre, Bouaziz Olivier, Nuel Gregory. "Gaussian Sum-Product Networks Learning in the Presence of Interval Censored Data" **JMLR*, 2020. ([PDF](http://proceedings.mlr.press/v138/pierre20a.html){:target="_blank"})
+* Clavier Pierre, Bouaziz Olivier, Nuel Gregory. "Gaussian Sum-Product Networks Learning in the Presence of Interval Censored Data" **JMLR**, 2020. ([PDF](http://proceedings.mlr.press/v138/pierre20a.html){:target="_blank"})
 {: style="text-align: justify"}
 
 <p>&nbsp;</p>
