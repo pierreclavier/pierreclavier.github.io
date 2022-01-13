@@ -6,6 +6,7 @@ show-avatar: True
 
 ## Publications
 
+
 * P. Clavier , O. Bouaziz, G. Nuel . "Gaussian Sum-Product Networks Learning in the Presence of Interval Censored Data" **Proceedings of the 10th International Conference on Probabilistic Graphical Models**, 2020. ([PDF](http://proceedings.mlr.press/v138/pierre20a.html){:target="_blank"})
 {: style="text-align: justify"}
 <p>&nbsp;</p>
