@@ -6,19 +6,19 @@ show-avatar: True
 
 ## Publications
 
-* P.Clavier , O. Bouaziz, G. Nuel . "Gaussian Sum-Product Networks Learning in the Presence of Interval Censored Data" **Proceedings of the 10th International Conference on Probabilistic Graphical Models**, 2020. ([PDF](http://proceedings.mlr.press/v138/pierre20a.html){:target="_blank"})
+* P. Clavier , O. Bouaziz, G. Nuel . "Gaussian Sum-Product Networks Learning in the Presence of Interval Censored Data" **Proceedings of the 10th International Conference on Probabilistic Graphical Models**, 2020. ([PDF](http://proceedings.mlr.press/v138/pierre20a.html){:target="_blank"})
 {: style="text-align: justify"}
 <p>&nbsp;</p>
 
 
 ## Conferences and Talks
 
-* P.Clavier, "Some relations between Risk-Averse and Robust Reinforcement Learning". **Inria Heka seminar.** January 2022
+* P. Clavier, "Some relations between Risk-Averse and Robust Reinforcement Learning". **Inria Heka seminar.** January 2022
 
 * P. Clavier , "Alcov2: A National Questionnaire Survey for Understanding the Transmission of SARS-CoV-2.". **Colloque Données de santé en vie réelle, DSVR 2020** ([link](https://www.afcros.com/evenements/colloque-donnees-de-sante-en-vie-reelle/){:target="_blank"})
 {: style="text-align: justify"}
 
-* P.Clavier, G. Nuel  "Alcov2 survey exploration and statistical raking." **Stochastic and Biology Group Workshop, LPSM, Sorbonne Université**, Paris, April 2020.
+* P. Clavier, G. Nuel  "Alcov2 survey exploration and statistical raking." **Stochastic and Biology Group Workshop, LPSM, Sorbonne Université**, Paris, April 2020.
 
 
 <p>&nbsp;</p>
