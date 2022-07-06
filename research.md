@@ -12,7 +12,7 @@ show-avatar: True
 
 * P.Clavier, S. Allassonnière, E. Le Pennec.   "Robust Reinforcement Learning with Distributional Risk-averse formulation"
  ([PDF](https://arxiv.org/abs/2206.06841){:target="_blank"})
-{: style="text-align: justify"} [Video](https://user-images.githubusercontent.com/43342527/177513690-38202278-76db-42a5-9d68-2a159cfa80c7.mp4)
+[Video](https://user-images.githubusercontent.com/43342527/177513690-38202278-76db-42a5-9d68-2a159cfa80c7.mp4)
  <p>&nbsp;</p>
   
 
