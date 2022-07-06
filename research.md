@@ -12,9 +12,9 @@ show-avatar: True
 
 * P.Clavier, S. Allassonnière, E. Le Pennec.   "Robust Reinforcement Learning with Distributional Risk-averse formulation"
  ([PDF](https://arxiv.org/abs/2206.06841){:target="_blank"})
-{: style="text-align: justify"} Video : 
+{: style="text-align: justify"} [Video](https://user-images.githubusercontent.com/43342527/177513690-38202278-76db-42a5-9d68-2a159cfa80c7.mp4)
  <p>&nbsp;</p>
-  : [Video](https://user-images.githubusercontent.com/43342527/177513690-38202278-76db-42a5-9d68-2a159cfa80c7.mp4)
+  
 
 * P. Clavier , O. Bouaziz, G. Nuel . "Gaussian Sum-Product Networks Learning in the Presence of Interval Censored Data" **Proceedings of the 10th International Conference on Probabilistic Graphical Models**, 2020. ([PDF](http://proceedings.mlr.press/v138/pierre20a.html){:target="_blank"})
 {: style="text-align: justify"}
