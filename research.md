@@ -10,9 +10,13 @@ show-avatar: True
 
 ## Publications
 
-* P.Clavier, S. Allassonnière, E. Le Pennec.   "Robust Reinforcement Learning with Distributional Risk-averse formulation"
+
+
+
+
+* P. Clavier, S. Allassonnière, E. Le Pennec. : "Robust Reinforcement Learning with Distributional Risk-averse formulation"
  ([PDF](https://arxiv.org/abs/2206.06841){:target="_blank"})
-[Video](https://user-images.githubusercontent.com/43342527/177513690-38202278-76db-42a5-9d68-2a159cfa80c7.mp4)
+[Video](https://user-images.githubusercontent.com/43342527/177513690-38202278-76db-42a5-9d68-2a159cfa80c7.mp4) [Illustration video](https://user-images.githubusercontent.com/43342527/177516762-03c0e52b-b77b-4684-8ea4-90786948ddee.mp4)
  <p>&nbsp;</p>
   
 
@@ -25,12 +29,12 @@ show-avatar: True
 
 ## Conferences and Talks
 
-* ICML 2022 "Responsible Decision Making in Dynamic Environments , Baltimore, July 2022. Robust
+* **ICML 2022** "Responsible Decision Making in Dynamic Environments , Baltimore, July 2022. Robust
 Reinforcement Learning using risk-averse formulation."
 
-* PRAIRIE workshop, Inria Paris, Paris July 2022. Robust Reinforcement Learning using risk-averse formulation
+* **PRAIRIE workshop, Inria Paris**, Paris July 2022. Robust Reinforcement Learning using risk-averse formulation
 
-* New Challenges in Statistical Learning , Font-Romeu, March 2022. Robust Reinforcement Learning using
+* **New Challenges in Statistical Learning **, Font-Romeu, March 2022. Robust Reinforcement Learning using
 risk-averse formulation.
 
 * P. Clavier, "Some relations between Risk-Averse and Robust Reinforcement Learning". **Inria Heka seminar, January 2022** 
