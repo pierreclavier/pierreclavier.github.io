@@ -28,7 +28,7 @@ show-avatar: True
 
 ## Conferences and Talks
 
-* **ICML 2022** "Responsible Decision Making in Dynamic Environments , Baltimore, July 2022. Robust
+* **ICML 2022 "Responsible Decision Making in Dynamic Environments** , Baltimore, July 2022. Robust
 Reinforcement Learning using risk-averse formulation."
 
 * **PRAIRIE workshop, Inria Paris**, Paris July 2022. 
