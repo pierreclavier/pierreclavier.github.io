@@ -12,12 +12,13 @@ show-avatar: True
 
 I have several experiences as teaching asssitant :
 
-### Ecole Polytechnique (2021-2022)
+### [MVA master](https://www.master-mva.com/), ENS Paris-Saclay (2022)
 
-* Regression Analysis (Master Level)
-* Bachelor Thesis tutor
-* Mathematical Modelling (Bachelor Level)
 
+### Ecole Polytechnique/HEC Paris (2021-2022)
+
+* Regression Analysis (Master Level X/HEC)
+* Mathematical Modelling (Bachelor Level at Ecole polytechnique)
 
 ### Université de Paris (2020)
 
