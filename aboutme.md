@@ -12,9 +12,9 @@ Hello ! I am currently a PhD candidate in Statistics and Machine Learning. I am 
 
 I am interested in systems at the intersection of mathematics and computation, in having analytical insights on real-world applications, especially in problem related to healthcare.
 My current PhD  subject is focused on application of **Reinforcement Learning** for optimisation of medical trajectory to avoid diagnostic wandering in rare diseases. I have a great interest in:
-- **Robust and Risk-Averse Reinforcement Learning**
-- **Distributional Reinforcement Learning**
-- **Sampling methods in large dimention**
+- **Robust and Risk-Averse Reinforcement Learning,**
+- **Distributional Reinforcement Learning,**
+- **Sampling methods in large dimention.**
 
  
 {: style="text-align: justify"}
