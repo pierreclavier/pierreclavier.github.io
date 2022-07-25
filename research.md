@@ -26,15 +26,14 @@ show-avatar: True
 
 
 
-
 ## Conferences and Talks
 
 * **ICML 2022** "Responsible Decision Making in Dynamic Environments , Baltimore, July 2022. Robust
 Reinforcement Learning using risk-averse formulation."
 
-* **PRAIRIE workshop, Inria Paris**, Paris July 2022. Robust Reinforcement Learning using risk-averse formulation
+* **PRAIRIE workshop, Inria Paris**, Paris July 2022. 
 
-* **New Challenges in Statistical Learning **, Font-Romeu, March 2022. Robust Reinforcement Learning using
+* **New Challenges in Statistical Learning**, Font-Romeu, March 2022. Robust Reinforcement Learning using
 risk-averse formulation.
 
 * P. Clavier, "Some relations between Risk-Averse and Robust Reinforcement Learning". **Inria Heka seminar, January 2022** 
@@ -46,7 +45,6 @@ risk-averse formulation.
 
 
 <p>&nbsp;</p>
-
 
 ## Thesis
 
