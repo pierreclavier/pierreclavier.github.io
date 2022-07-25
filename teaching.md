@@ -14,6 +14,7 @@ I have several experiences as teaching asssitant :
 
 ### [MVA master](https://www.master-mva.com/), ENS Paris-Saclay (2022)
 
+*  Computational Statistics, second year of Master.
 
 ### Ecole Polytechnique/HEC Paris (2021-2022)
 
