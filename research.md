@@ -19,7 +19,6 @@ show-avatar: True
 [Video](https://user-images.githubusercontent.com/43342527/177513690-38202278-76db-42a5-9d68-2a159cfa80c7.mp4) [Illustration video](https://user-images.githubusercontent.com/43342527/177516762-03c0e52b-b77b-4684-8ea4-90786948ddee.mp4)
  <p>&nbsp;</p>
   
-
 * P. Clavier , O. Bouaziz, G. Nuel . "Gaussian Sum-Product Networks Learning in the Presence of Interval Censored Data" **Proceedings of the 10th International Conference on Probabilistic Graphical Models**, 2020. ([PDF](http://proceedings.mlr.press/v138/pierre20a.html){:target="_blank"})
 {: style="text-align: justify"}
 <p>&nbsp;</p>
