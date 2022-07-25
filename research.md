@@ -27,16 +27,16 @@ show-avatar: True
 
 ## Conferences and Talks
 
-* **[EMINES](https://www.emines-ingenieur.org/en/education/summer-school) Math for Machine Learning summer school**
+* **[EMINES](https://www.emines-ingenieur.org/en/education/summer-school) Math for Machine Learning summer school**, July 2022, Ben Guerir Maroco
 
 * **ICML 2022 "Responsible Decision Making in Dynamic Environments** , Baltimore, July 2022. Robust
 Reinforcement Learning using risk-averse formulation."
 
 * **PRAIRIE workshop, Inria Paris**, Paris July 2022. 
 
-* **SIMPA seminar**, CMAP, Ecole Polytechnique
+* **SIMPA seminar**, CMAP, Ecole Polytechnique, France.
 
-* **New Challenges in Statistical Learning**, Font-Romeu, March 2022. Robust Reinforcement Learning using
+* **New Challenges in Statistical Learning**, Font-Romeu, France, March 2022. Robust Reinforcement Learning using
 risk-averse formulation.
 
 *  **Inria Heka seminar, January 2022**  P. Clavier, "Some relations between Risk-Averse and Robust Reinforcement Learning".
