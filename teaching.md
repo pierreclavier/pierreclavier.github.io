@@ -16,11 +16,15 @@ I have several experiences as teaching asssitant :
 *  TD 1 : Sujet : [TP-1.pdf](https://github.com/pierreclavier/pierreclavier.github.io/files/9775924/TP-1.pdf)
 *         Data :  [data.zip](https://github.com/pierreclavier/pierreclavier.github.io/files/9775977/data.zip)
 
+
+<!---
 *  TD 2 : #[TP-2.pdf](https://github.com/pierreclavier/pierreclavier.github.io/files/9775925/TP-2.pdf)
 
 *  TD 3 : #[TP-3.pdf](https://github.com/pierreclavier/pierreclavier.github.io/files/9775928/TP-3.pdf)
 
 *  TD 4 : #[TP-4.pdf](https://github.com/pierreclavier/pierreclavier.github.io/files/9775929/TP-4.pdf)
+-->
+
 
 ### Examiner for the entrance exams at HEC Paris (2021-2022)
 
