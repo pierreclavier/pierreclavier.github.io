@@ -18,6 +18,8 @@ I have several experiences as teaching asssitant :
 *  TD 3 :
 *  TD 4 :
 
+### Examiner for the entrance exams at HEC Paris (2021-2022)
+
 ### Ecole Polytechnique/HEC Paris (2021-2022)
 
 * Regression Analysis (Master Level X/HEC)
