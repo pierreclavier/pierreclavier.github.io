@@ -13,10 +13,13 @@ I have several experiences as teaching asssitant :
 ### [MVA master](https://www.master-mva.com/), ENS Paris-Saclay (2022)
 
 *  Computational Statistics, second year of Master.
-*  TD 1 :
-*  TD 2 :
-*  TD 3 :
-*  TD 4 :
+*  TD 1 : [TP-1.pdf](https://github.com/pierreclavier/pierreclavier.github.io/files/9775924/TP-1.pdf)
+
+*  TD 2 : [TP-2.pdf](https://github.com/pierreclavier/pierreclavier.github.io/files/9775925/TP-2.pdf)
+
+*  TD 3 : [TP-3.pdf](https://github.com/pierreclavier/pierreclavier.github.io/files/9775928/TP-3.pdf)
+
+*  TD 4 : [TP-4.pdf](https://github.com/pierreclavier/pierreclavier.github.io/files/9775929/TP-4.pdf)
 
 ### Examiner for the entrance exams at HEC Paris (2021-2022)
 
