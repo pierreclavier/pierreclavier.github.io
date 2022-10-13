@@ -6,7 +6,7 @@ show-avatar: True
 
 ### Students 
 
-**Elie Attian** : Ecole Polytechnique, Bachelor Thesis : Risk-Averse Reinforcement Learning for medical applications.
+**Elie Attian** : Ecole Polytechnique ( 3 months ), Bachelor Thesis : Risk-Averse Reinforcement Learning for medical applications.
 
 I have several experiences as teaching asssitant :
 
