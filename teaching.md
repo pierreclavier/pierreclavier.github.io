@@ -6,15 +6,17 @@ show-avatar: True
 
 ### Students 
 
-**Elie Attian** : Bachelor Thesis : Risk-Averse Reinforcement Learning for medical applications.
-
-
+**Elie Attian** : Ecole Polytechnique, Bachelor Thesis : Risk-Averse Reinforcement Learning for medical applications.
 
 I have several experiences as teaching asssitant :
 
 ### [MVA master](https://www.master-mva.com/), ENS Paris-Saclay (2022)
 
 *  Computational Statistics, second year of Master.
+*  TD 1 :
+*  TD 2 :
+*  TD 3 :
+*  TD 4 :
 
 ### Ecole Polytechnique/HEC Paris (2021-2022)
 
