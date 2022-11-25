@@ -17,9 +17,10 @@ Rappel sur les chaines de Markov : [RappelMarkovMath.pdf](https://github.com/pie
 
 
 *  TD 1 : Sujet : [TP-1.pdf](https://github.com/pierreclavier/pierreclavier.github.io/files/9775924/TP-1.pdf)
-*         Data  :  [data.zip](https://github.com/pierreclavier/pierreclavier.github.io/files/9775977/data.zip)  
+*         Data  : [data.zip](https://github.com/pierreclavier/pierreclavier.github.io/files/9775977/data.zip)  
 *  TD 2 : Sujet : [TP-2.pdf](https://github.com/pierreclavier/pierreclavier.github.io/files/9775925/TP-2.pdf)
 *         Data  : [Data.zip](https://github.com/pierreclavier/pierreclavier.github.io/files/9882573/Data.zip)
+*  TD 3 : Sujet : [TP-3.pdf](https://github.com/pierreclavier/pierreclavier.github.io/files/9775928/TP-3.pdf)
 
 
 
