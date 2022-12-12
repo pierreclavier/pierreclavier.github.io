@@ -22,7 +22,7 @@ Rappel sur les chaines de Markov : [RappelMarkovMath.pdf](https://github.com/pie
 *         Data  : [Data.zip](https://github.com/pierreclavier/pierreclavier.github.io/files/9882573/Data.zip)
 *  TD 3 : Sujet : [TP-3.pdf](https://github.com/pierreclavier/pierreclavier.github.io/files/9775928/TP-3.pdf)
 *  TD 4 : Sujet : [TP-4.pdf](https://github.com/pierreclavier/pierreclavier.github.io/files/9775929/TP-4.pdf)
-
+*  Additional .txt for link on the top of page 3 of TD4 : [tmalaexcov.txt](https://github.com/pierreclavier/pierreclavier.github.io/files/10208994/tmalaexcov.txt)
 
 
 <!---
