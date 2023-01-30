@@ -27,19 +27,23 @@ show-avatar: True
 
 ## Conferences and Talks
 
-* **[EMINES](https://www.emines-ingenieur.org/en/education/summer-school) Math for Machine Learning summer school**, July 2022, Ben Guerir Maroco
+* **HEkA meeting group, Inria Paris** Rouen, January 2023
+
+*  **Statistical Learning group**, Ecole polytechnique, December 2022 France
+
+* **[EMINES](https://www.emines-ingenieur.org/en/education/summer-school) Math for Machine Learning **, July 2022, Ben Guerir Maroco
 
 * **ICML 2022 "Responsible Decision Making in Dynamic Environments** , Baltimore, July 2022. Robust
 Reinforcement Learning using risk-averse formulation."
 
 * **PRAIRIE workshop, Inria Paris**, Paris July 2022. 
 
-* **SIMPA seminar**, CMAP, Ecole Polytechnique, France.
+* **SIMPA seminar**, CMAP, Ecole polytechnique, France.
 
 * **New Challenges in Statistical Learning**, Font-Romeu, France, March 2022. Robust Reinforcement Learning using
 risk-averse formulation.
 
-*  **Inria Heka seminar, January 2022**  P. Clavier, "Some relations between Risk-Averse and Robust Reinforcement Learning".
+*  **Inria  Paris Heka seminar, January 2022**  P. Clavier, "Some relations between Risk-Averse and Robust Reinforcement Learning".
 
 *  **Colloque Données de santé en vie réelle, DSVR 2020** ([link](https://www.afcros.com/evenements/colloque-donnees-de-sante-en-vie-reelle/){:target="_blank"}) P. Clavier , "Alcov2: A National Questionnaire Survey for Understanding the Transmission of SARS-CoV-2.".
 {: style="text-align: justify"}
