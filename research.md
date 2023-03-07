@@ -11,7 +11,9 @@ show-avatar: True
 ## Publications
 
 
-
+* P. Clavier , E. Le Pennec, M. Geist . "Towards Minimax Optimality of Model-based Robust Reinforcement Learning" **Preprint**, 2023. ([PDF]([http://proceedings.mlr.press/v138/pierre20a.html](https://arxiv.org/abs/2302.05372)){:target="_blank"})
+{: style="text-align: justify"}
+<p>&nbsp;</p>
 
 
 * P. Clavier, S. Allassonnière, E. Le Pennec. : "Robust Reinforcement Learning with Distributional Risk-averse formulation"
