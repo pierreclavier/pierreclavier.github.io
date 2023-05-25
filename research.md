@@ -37,7 +37,7 @@ show-avatar: True
 
 *  **Statistical Learning group**, Ecole polytechnique, December 2022 France
 
-* **[EMINES](https://www.emines-ingenieur.org/en/education/summer-school) Math for Machine Learning **, July 2022, Ben Guerir Maroco
+* **[EMINES](https://www.emines-ingenieur.org/en/education/summer-school) Math for Machine Learning**, July 2022, Ben Guerir Maroco
 
 * **ICML 2022 "Responsible Decision Making in Dynamic Environments** , Baltimore, July 2022. Robust
 Reinforcement Learning using risk-averse formulation."
