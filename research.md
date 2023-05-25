@@ -29,7 +29,11 @@ show-avatar: True
 
 ## Conferences and Talks
 
-* **HEkA meeting group, Inria Paris** Rouen, January 2023
+* ** International Conference in Robust statistics**, Toulouse, May 2023.
+
+* ** MLMDA seminair**, Centre Borelli de l'ENS Paris-Saclay, April 2023.
+
+* **HeKA meeting group, Inria Paris** Rouen, January 2023
 
 *  **Statistical Learning group**, Ecole polytechnique, December 2022 France
 
