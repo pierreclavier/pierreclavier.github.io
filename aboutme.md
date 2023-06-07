@@ -13,7 +13,7 @@ Hello ! I am currently a PhD candidate in Statistics and Machine Learning. I am 
 I am interested in systems at the intersection of mathematics and computation, in having analytical insights on real-world applications, especially in problem related to healthcare.
 My current PhD  subject is focused on application of **Reinforcement Learning** for optimisation of medical trajectory to avoid diagnostic wandering in rare diseases. I have a great interest in:
 - **Robust and Risk-Averse Reinforcement Learning,**
-- **Bandit theory**
+- **Bandit theory (Thomson Sampling),**
 - **Distributional Reinforcement Learning,**
 - **Sampling methods in large dimention.**
 
@@ -23,9 +23,6 @@ My current PhD  subject is focused on application of **Reinforcement Learning** 
 
 I have also co-funded a [junior seminar](https://seminairedoctorantcrc.github.io/aboutme/) at [PariSanté Campus](https://parisantecampus.fr/) with [Linus Bleistein](https://linusbleistein.github.io/) dealing with interactions between mathematics, Machine Learning and healthcare. Don't hesite to contact me if you want participate or present your work !
 
-
-Previously I have worked in a project, [Alcov2](https://www.college-de-france.fr/site/actualites/Alcov2-Enquete-pour-l-etude-de-la-transmission-de-SARS-Cov2-au-sein-des-foyers-francais.htm) on prediction of probability of transmission of Covid 19 into French households under supervision of [Grégory Nuel](http://nuel.perso.math.cnrs.fr/) and [Amaury Lambert](https://www.lpsm.paris/pageperso/amaury.lambert/).
-{: style="text-align: justify"}
 
 
 
