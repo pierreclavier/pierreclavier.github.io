@@ -16,21 +16,25 @@ Rappel sur les chaines de Markov : [RappelMarkovMath.pdf](https://github.com/pie
 
 
 
-*  TD 1 : Sujet : [TP-1.pdf](https://github.com/pierreclavier/pierreclavier.github.io/files/9775924/TP-1.pdf)
-*         Data  : [data.zip](https://github.com/pierreclavier/pierreclavier.github.io/files/9775977/data.zip)  
-*  TD 2 : Sujet : [TP-2.pdf](https://github.com/pierreclavier/pierreclavier.github.io/files/9775925/TP-2.pdf)
-*         Data  : [Data.zip](https://github.com/pierreclavier/pierreclavier.github.io/files/9882573/Data.zip)
-*  TD 3 : Sujet : [TP-3.pdf](https://github.com/pierreclavier/pierreclavier.github.io/files/9775928/TP-3.pdf)
-*  TD 4 : Sujet : [TP-4.pdf](https://github.com/pierreclavier/pierreclavier.github.io/files/9775929/TP-4.pdf)
-*  Additional .txt for link on the top of page 3 of TD4 : [tmalaexcov.txt](https://github.com/pierreclavier/pierreclavier.github.io/files/10208994/tmalaexcov.txt)
+*  TD 1 : Sujet : 
+*         Data  : 
+*  TD 2 : Sujet : 
+*         Data  : 
+*  TD 3 : Sujet : 
+*  TD 4 : Sujet : 
+*  Additional .txt for link on the top of page 3 of TD4 :
 
 
 <!---
 * 
+[TP-1.pdf](https://github.com/pierreclavier/pierreclavier.github.io/files/9775924/TP-1.pdf)
+[data.zip](https://github.com/pierreclavier/pierreclavier.github.io/files/9775977/data.zip)  
+[TP-2.pdf](https://github.com/pierreclavier/pierreclavier.github.io/files/9775925/TP-2.pdf)
+[Data.zip](https://github.com/pierreclavier/pierreclavier.github.io/files/9882573/Data.zip)
+[TP-3.pdf](https://github.com/pierreclavier/pierreclavier.github.io/files/9775928/TP-3.pdf)
+[TP-4.pdf](https://github.com/pierreclavier/pierreclavier.github.io/files/9775929/TP-4.pdf)
+ [tmalaexcov.txt](https://github.com/pierreclavier/pierreclavier.github.io/files/10208994/tmalaexcov.txt)
 
-*  TD 3 : #[TP-3.pdf](https://github.com/pierreclavier/pierreclavier.github.io/files/9775928/TP-3.pdf)
-
-*  TD 4 : #[TP-4.pdf](https://github.com/pierreclavier/pierreclavier.github.io/files/9775929/TP-4.pdf)
 -->
 
 
