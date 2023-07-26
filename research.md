@@ -10,6 +10,9 @@ show-avatar: True
 
 ## Publications
 
+* P.Clavier , H. Huix, A. Durmus 'VITS : Variational Inference Thomson Sampling for contextual bandits' **Preprint**, 2023. [PDF](https://arxiv.org/abs/2307.10167){:target="_blank"})
+{: style="text-align: justify"}
+<p>&nbsp;</p> 
 
 * P. Clavier , E. Le Pennec, M. Geist . "Towards Minimax Optimality of Model-based Robust Reinforcement Learning" **Preprint**, 2023. ([PDF]([http://proceedings.mlr.press/v138/pierre20a.html](https://arxiv.org/abs/2302.05372)){:target="_blank"})
 {: style="text-align: justify"}
@@ -28,6 +31,10 @@ show-avatar: True
 
 
 ## Conferences and Talks
+
+* **[Summer School "Statistics and Learning Theory](http://mathschool.ysu.am/slt2023/)**, Tsaghkadzor, Armenia  July 2023.
+
+* **Journées des Statistiques, JDS 2023,**, Bruxelles , July 2023.
 
 * **International Conference in Robust statistics**, Toulouse, May 2023.
 
