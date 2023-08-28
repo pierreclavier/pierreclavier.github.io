@@ -35,7 +35,16 @@ Rappel sur les chaines de Markov : [RappelMarkovMath.pdf](https://github.com/pie
 [TP-4.pdf](https://github.com/pierreclavier/pierreclavier.github.io/files/9775929/TP-4.pdf)
  [tmalaexcov.txt](https://github.com/pierreclavier/pierreclavier.github.io/files/10208994/tmalaexcov.txt)
 
+
+
+ [TP-1.pdf](https://github.com/pierreclavier/pierreclavier.github.io/files/12454238/TP-1.pdf)
+[TP-2.pdf](https://github.com/pierreclavier/pierreclavier.github.io/files/12454239/TP-2.pdf)
+[TP-3.pdf](https://github.com/pierreclavier/pierreclavier.github.io/files/12454241/TP-3.pdf)
+[TP-4.pdf](https://github.com/pierreclavier/pierreclavier.github.io/files/12454243/TP-4.pdf)
+
 -->
+
+
 
 
 ### Examiner for the entrance exams at HEC Paris (2021-2022)
