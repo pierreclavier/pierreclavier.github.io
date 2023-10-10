@@ -17,14 +17,13 @@ Rappel sur les chaines de Markov : [RappelMarkovMath.pdf](https://github.com/pie
 
 
 *  TD 1 : Sujet : [Compstats_MVA___TP1 (1).pdf](https://github.com/pierreclavier/pierreclavier.github.io/files/12854704/Compstats_MVA___TP1.1.pdf)
-*         Data  : [data.zip](https://github.com/pierreclavier/pierreclavier.github.io/files/9775977/data.zip)  
+<!---*         Data  :   
 *  TD 2 : Sujet : 
 *         Data  : 
 *  TD 3 : Sujet : 
 *  TD 4 : Sujet : 
-*  Additional .txt for link on the top of page 3 of TD4 :
-
-
+*  Additional .txt for link on the top of page 3 of TD4 : -->
+* Data :[data.zip](https://github.com/pierreclavier/pierreclavier.github.io/files/9775977/data.zip)
 <!---
 * 
 [TP-1.pdf](https://github.com/pierreclavier/pierreclavier.github.io/files/9775924/TP-1.pdf)
