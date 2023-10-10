@@ -17,13 +17,7 @@ Rappel sur les chaines de Markov : [RappelMarkovMath.pdf](https://github.com/pie
 
 
 *  TD 1 : Sujet : [Compstats_MVA___TP1 (1).pdf](https://github.com/pierreclavier/pierreclavier.github.io/files/12854704/Compstats_MVA___TP1.1.pdf)
-<!---*         Data  :   
-*  TD 2 : Sujet : 
-*         Data  : 
-*  TD 3 : Sujet : 
-*  TD 4 : Sujet : 
-*  Additional .txt for link on the top of page 3 of TD4 : -->
-* Data :[data.zip](https://github.com/pierreclavier/pierreclavier.github.io/files/9775977/data.zip)
+*  Data :[data.zip](https://github.com/pierreclavier/pierreclavier.github.io/files/9775977/data.zip)
 <!---
 * 
 [TP-1.pdf](https://github.com/pierreclavier/pierreclavier.github.io/files/9775924/TP-1.pdf)
@@ -35,17 +29,12 @@ Rappel sur les chaines de Markov : [RappelMarkovMath.pdf](https://github.com/pie
  [tmalaexcov.txt](https://github.com/pierreclavier/pierreclavier.github.io/files/10208994/tmalaexcov.txt)
 
 
-
-
-
  [TP-1.pdf](https://github.com/pierreclavier/pierreclavier.github.io/files/12454238/TP-1.pdf)
 [TP-2.pdf](https://github.com/pierreclavier/pierreclavier.github.io/files/12454239/TP-2.pdf)
 [TP-3.pdf](https://github.com/pierreclavier/pierreclavier.github.io/files/12454241/TP-3.pdf)
 [TP-4.pdf](https://github.com/pierreclavier/pierreclavier.github.io/files/12454243/TP-4.pdf)
 
 -->
-
-
 
 
 ### Examiner for the entrance exams at HEC Paris (2021-2022)
