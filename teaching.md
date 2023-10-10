@@ -10,7 +10,7 @@ show-avatar: True
 
 I have several experiences as teaching asssitant :
 
-### [MVA master](https://www.master-mva.com/), ENS Paris-Saclay (2022) Computational Statistics, second year of Master.
+### [MVA master](https://www.master-mva.com/), ENS Paris-Saclay (2022-2024) Computational Statistics, second year of Master.
 
 Rappel sur les chaines de Markov : [RappelMarkovMath.pdf](https://github.com/pierreclavier/pierreclavier.github.io/files/9849848/RappelMarkovMath.pdf)
 
