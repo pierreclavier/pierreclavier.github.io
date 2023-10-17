@@ -12,16 +12,17 @@ Hello ! I am currently a PhD candidate in Statistics and Machine Learning. I am 
 
 I am interested in systems at the intersection of mathematics and computation, in having analytical insights on real-world applications, especially in problem related to healthcare.
 My current PhD  subject is focused on application of **Reinforcement Learning** for optimisation of medical trajectory to avoid diagnostic wandering in rare diseases. I have a great interest in:
-- **Robust and Risk-Averse Reinforcement Learning,**
-- **Bandit theory (Thomson Sampling),**
-- **Distributional Reinforcement Learning,**
+- **Robust and Risk-Averse Reinforcement Learning,** ( with Matthieu Geist at Google DeepMind)
+- **Bandit theory (Thomson Sampling),** (with Tom Huix and Alain Durmus at Ecole Polytechnique)  
 - **Sampling methods in large dimention.**
 
  
 {: style="text-align: justify"}
 
 
-I have also co-funded a [junior seminar](https://seminairedoctorantcrc.github.io/aboutme/) at [PariSanté Campus](https://parisantecampus.fr/) with [Linus Bleistein](https://linusbleistein.github.io/) dealing with interactions between mathematics, Machine Learning and healthcare. Don't hesite to contact me if you want participate or present your work !
+I am organising with [Neurips in Paris 2023](https://neuripsinparis.github.io/neurips2023paris/) with [Linus Bleistein](https://linusbleistein.github.io/) among other colleagues on the 6th and 7th of December 2023 at Sorbonne Université (Paris 5). A great occasion to meet and discuss recent advances in ML in central Paris !
+
+I have also co-funded a [junior seminar](https://seminairedoctorantcrc.github.io/aboutme/) at [PariSanté Campus](https://parisantecampus.fr/) with ealing with interactions between mathematics, Machine Learning and healthcare. Don't hesite to contact me if you want participate or present your work !
 
 
 
