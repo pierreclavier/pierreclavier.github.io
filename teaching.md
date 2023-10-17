@@ -27,7 +27,7 @@ Rappel sur les chaines de Markov : [RappelMarkovMath.pdf](https://github.com/pie
 -->
 
 
-### Examiner for the entrance exams at HEC Paris (2021-2022)
+### Examiner for the entrance exams at HEC Paris (2021-2023)
 
 ### Ecole Polytechnique/HEC Paris (2021-2022)
 
