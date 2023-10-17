@@ -32,6 +32,8 @@ show-avatar: True
 
 ## Conferences and Talks
 
+* **INRIA Soda seminar**, Robust Reinforcement Learning: from Theory to Practice. Palaiseau, October 2023.
+
 * **[Summer School "Statistics and Learning Theory](http://mathschool.ysu.am/slt2023/)**, Tsaghkadzor, Armenia  July 2023.
 
 * **Journées des Statistiques, JDS 2023,**, Bruxelles , July 2023.
