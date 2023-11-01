@@ -15,17 +15,12 @@ I have several experiences as teaching asssitant :
 Rappel sur les chaines de Markov : [RappelMarkovMath.pdf](https://github.com/pierreclavier/pierreclavier.github.io/files/9849848/RappelMarkovMath.pdf)
 
 
-
 *  TD 1 : Sujet :[Compstats_MVA_2023.pdf](https://github.com/pierreclavier/pierreclavier.github.io/files/12857708/Compstats_MVA_2023.pdf)
 *  Data :[data.zip](https://github.com/pierreclavier/pierreclavier.github.io/files/9775977/data.zip)
 
-*  TD 1 : Sujet : [Compstats_MVA TP2.pdf](https://github.com/pierreclavier/pierreclavier.github.io/files/13073208/Compstats_MVA___TP2.1.pdf)
+*  TD 2 : Sujet : [Compstats_MVA TP2.pdf](https://github.com/pierreclavier/pierreclavier.github.io/files/13073208/Compstats_MVA___TP2.1.pdf)
 
- <!--
-[data.zip](https://github.com/pierreclavier/pierreclavier.github.io/files/9775977/data.zip)  
-[Data.zip](https://github.com/pierreclavier/pierreclavier.github.io/files/9882573/Data.zip)
- [tmalaexcov.txt](https://github.com/pierreclavier/pierreclavier.github.io/files/10208994/tmalaexcov.txt)
--->
+*  Data: [WPP2019_Period_Indicators_Medium.csv](https://github.com/pierreclavier/pierreclavier.github.io/files/13226494/WPP2019_Period_Indicators_Medium.csv)
 
 
 ### Examiner for the entrance exams at HEC Paris (2021-2023)
@@ -40,4 +35,3 @@ Rappel sur les chaines de Markov : [RappelMarkovMath.pdf](https://github.com/pie
 * Mathematical Analysis, 3rd year of Bachelor.
 
 <p>&nbsp;</p>
-
