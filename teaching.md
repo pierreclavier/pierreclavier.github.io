@@ -22,6 +22,9 @@ Rappel sur les chaines de Markov : [RappelMarkovMath.pdf](https://github.com/pie
 
 *  Data: [WPP2019_Period_Indicators_Medium.csv](https://github.com/pierreclavier/pierreclavier.github.io/files/13226494/WPP2019_Period_Indicators_Medium.csv)
 
+* TD 3: Sujet  [Compstats_MVA___TP3.pdf](https://github.com/pierreclavier/pierreclavier.github.io/files/13365616/Compstats_MVA___TP3.pdf)
+
+
 
 ### Examiner for the entrance exams at HEC Paris (2021-2023)
 
