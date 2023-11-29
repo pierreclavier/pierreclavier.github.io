@@ -24,7 +24,8 @@ Rappel sur les chaines de Markov : [RappelMarkovMath.pdf](https://github.com/pie
 
 * TD 3: Sujet :[Compstats_MVA_TP3.pdf](https://github.com/pierreclavier/pierreclavier.github.io/files/13365662/Compstats_MVA_TP3.pdf)
 
-* TD 4: Sujet :[Compstats_MVA___TP4.pdf](https://github.com/pierreclavier/pierreclavier.github.io/files/13487964/Compstats_MVA___TP4.pdf)
+* TD 4: Sujet :[Compstats_MVA_TP4.pdf](https://github.com/pierreclavier/pierreclavier.github.io/files/13501813/Compstats_MVA_TP4.pdf)
+
 
 ### Examiner for the entrance exams at HEC Paris (2021-2023)
 
