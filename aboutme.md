@@ -19,8 +19,10 @@ My current PhD  subject is focused on application of **Reinforcement Learning** 
  
 {: style="text-align: justify"}
 
+News : I will be a visiting researcher in the [California Institut of technology](https://www.caltech.edu/) in the group of Professor [Adam Wierman](https://adamwierman.com/) and [Eric Mazumdar](http://users.cms.caltech.edu/~mazumdar/) working on Robust RL ! 
 
-I am organising with [Neurips in Paris 2023](https://neuripsinparis.github.io/neurips2023paris/) with [Linus Bleistein](https://linusbleistein.github.io/) among other colleagues on the 6th and 7th of December 2023 at Sorbonne Université (Paris 5). A great occasion to meet and discuss recent advances in ML in central Paris !
+
+I am organizing with [Neurips in Paris 2023](https://neuripsinparis.github.io/neurips2023paris/) with [Linus Bleistein](https://linusbleistein.github.io/) among other colleagues on the 6th and 7th of December 2023 at Sorbonne Université (Paris 5). A great occasion to meet and discuss recent advances in ML in central Paris !
 
 I have also co-funded a [junior seminar](https://seminairedoctorantcrc.github.io/aboutme/) at [PariSanté Campus](https://parisantecampus.fr/) with ealing with interactions between mathematics, Machine Learning and healthcare. Don't hesite to contact me if you want participate or present your work !
 
