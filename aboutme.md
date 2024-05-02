@@ -21,7 +21,7 @@ My current PhD  subject is focused on application of **Reinforcement Learning** 
 
 News : 
 
-04/2024 : 2 papers accepted, one at ICML 2024 on [Bandit with Variatonal Inference](https://arxiv.org/abs/2307.10167) and one on theory of [Robust MDPs](https://arxiv.org/abs/2302.05372) at UAI 2024 !
+04/2024 : 2 papers accepted, one at ICML 2024 on [Bandit with Variational Inference](https://arxiv.org/abs/2307.10167) and one on theory of [Robust MDPs](https://arxiv.org/abs/2302.05372) at UAI 2024 !
 
 01/2024 : I will be a visiting researcher in the [California Institut of Technology](https://www.caltech.edu/) in the group of Professor [Adam Wierman](https://adamwierman.com/) and [Eric Mazumdar](http://users.cms.caltech.edu/~mazumdar/) working on Robust RL ! 
 
