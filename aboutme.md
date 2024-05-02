@@ -13,7 +13,7 @@ Hello ! I am currently a PhD candidate in Statistics and Machine Learning. I am 
 I am interested in systems at the intersection of mathematics and computation, in having analytical insights on real-world applications, especially in problem related to healthcare.
 My current PhD  subject is focused on application of **Reinforcement Learning** for optimisation of medical trajectory to avoid diagnostic wandering in rare diseases. I have a great interest in:
 - **Robust and Risk-Averse Reinforcement Learning,** 
-- **Theory of LLMs**
+- **Theory of LLMs,**
 - **Bandit theory.** 
 
  
@@ -21,7 +21,7 @@ My current PhD  subject is focused on application of **Reinforcement Learning** 
 
 News : 
 
-04/2024 : 2 papers accepted, one at ICML 2024 on [Bandit with Variational Inference](https://arxiv.org/abs/2307.10167) and one on theory of [Robust MDPs](https://arxiv.org/abs/2302.05372) at UAI 2024 !
+04/2024 : 2 papers accepted, one at ICML 2024 on [Bandit with Variational Inference](https://arxiv.org/abs/2307.10167) and one on the theory of [Robust MDPs](https://arxiv.org/abs/2302.05372) at UAI 2024 (oral) !
 
 01/2024 : I will be a visiting researcher in the [California Institut of Technology](https://www.caltech.edu/) in the group of Professor [Adam Wierman](https://adamwierman.com/) and [Eric Mazumdar](http://users.cms.caltech.edu/~mazumdar/) working on Robust RL ! 
 
