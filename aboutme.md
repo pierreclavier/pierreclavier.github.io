@@ -14,7 +14,7 @@ I am interested in systems at the intersection of mathematics and computation, i
 My current PhD  subject is focused on application of **Reinforcement Learning** for optimisation of medical trajectory to avoid diagnostic wandering in rare diseases. I have a great interest in:
 - **Robust and Risk-Averse Reinforcement Learning,** 
 - **Theory of LLMs**
-- **Bandit theory** 
+- **Bandit theory.** 
 
  
 {: style="text-align: justify"}
