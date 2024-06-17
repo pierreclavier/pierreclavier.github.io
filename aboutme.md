@@ -21,6 +21,8 @@ My current PhD  subject is focused on application of **Reinforcement Learning** 
 
 News : 
 
+05/2024 : 3 new preprint out:  A new benchmark for Robust Reinforcement Learning: **[RRLS : Robust Reinforcement Learning Suite](https://arxiv.org/abs/2406.08406 )** ! and two new Deep Robust Reinforcement Learning : [ExpectRL](https://arxiv.org/abs/2406.04081) and [TC-MDP](https://arxiv.org/html/2406.08395v1) !
+
 04/2024 : 2 papers accepted, one at ICML 2024 on [Bandit with Variational Inference](https://arxiv.org/abs/2307.10167) and one on the theory of [Robust MDPs](https://arxiv.org/abs/2302.05372) at UAI 2024 (oral) !
 
 01/2024 : I will be a visiting researcher in the [California Institut of Technology](https://www.caltech.edu/) in the group of Professor [Adam Wierman](https://adamwierman.com/) and [Eric Mazumdar](http://users.cms.caltech.edu/~mazumdar/) working on Robust RL ! 
