@@ -15,15 +15,15 @@ show-avatar: True
 {: style="text-align: justify"}
 <p>&nbsp;</p>    
 
-* Adil Zouitine, David Bertoin Pierre Clavier, Matthieu Geist, Emmanuel Rachelson RRLS : Robust Reinforcement Learning Suite  [PDF](https://arxiv.org/abs/2406.08406){:target="_blank"})
+* Adil Zouitine, David Bertoin Pierre Clavier, Matthieu Geist, Emmanuel Rachelson RRLS : Robust Reinforcement Learning Suite  ([PDF](https://arxiv.org/abs/2406.08406){:target="_blank"})
 {: style="text-align: justify"}
 <p>&nbsp;</p>    
 
-* P. Clavier, Emmanuel Rachelson, Erwan Le Pennec, Matthieu Geist : Bootstrapping Expectiles in Reinforcement Learning :  [PDF](https://arxiv.org/abs/2406.04081){:target="_blank"})
+* P. Clavier, Emmanuel Rachelson, Erwan Le Pennec, Matthieu Geist : Bootstrapping Expectiles in Reinforcement Learning :  ([PDF](https://arxiv.org/abs/2406.04081){:target="_blank"})
 {: style="text-align: justify"}
 <p>&nbsp;</p>   
 
-* P. Clavier , H. Huix, A. Durmus 'VITS : Variational Inference Thomson Sampling for contextual bandits' **ICML**, 2024. [PDF](https://arxiv.org/abs/2307.10167){:target="_blank"})
+* P. Clavier , H. Huix, A. Durmus 'VITS : Variational Inference Thomson Sampling for contextual bandits' **ICML**, 2024. ([PDF](https://arxiv.org/abs/2307.10167){:target="_blank"})
 {: style="text-align: justify"}
 <p>&nbsp;</p> 
 
