@@ -45,6 +45,16 @@ show-avatar: True
 
 ## Conferences and Talks
 
+* **ICML 2024**, Vienna, July 2024
+
+* **UAI 2024, Oral**, Barcelona, July 2024
+  
+* **Journées des Statistiques, JDS 2024,**, Bordeaux , June 2024.
+
+* **Information Theory and Applications Workshop**, San Diego, March 2024
+
+* **Computational Mathematical Sciences Group, Caltech**, Los Angeles , March 2024.
+
 * **INRIA Soda seminar**, Robust Reinforcement Learning: from Theory to Practice. Palaiseau, October 2023.
 
 * **[Summer School "Statistics and Learning Theory](http://mathschool.ysu.am/slt2023/)**, Tsaghkadzor, Armenia  July 2023.
