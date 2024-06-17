@@ -10,16 +10,29 @@ show-avatar: True
 
 ## Publications
 
-* P.Clavier , H. Huix, A. Durmus 'VITS : Variational Inference Thomson Sampling for contextual bandits' **Preprint**, 2023. [PDF](https://arxiv.org/abs/2307.10167){:target="_blank"})
+
+* Adil Zouitine, David Bertoin, Pierre Clavier, Matthieu Geist, Emmanuel Rachelson : Time-Constrained Robust MDPs [PDF](https://arxiv.org/html/2406.08395v1){:target="_blank"})
+{: style="text-align: justify"}
+<p>&nbsp;</p>    
+
+* Adil Zouitine, David Bertoin Pierre Clavier, Matthieu Geist, Emmanuel Rachelson RRLS : Robust Reinforcement Learning Suite  [PDF](https://arxiv.org/abs/2406.08406){:target="_blank"})
+{: style="text-align: justify"}
+<p>&nbsp;</p>    
+
+* P. Clavier, Emmanuel Rachelson, Erwan Le Pennec, Matthieu Geist : Bootstrapping Expectiles in Reinforcement Learning :  [PDF](https://arxiv.org/abs/2406.04081){:target="_blank"})
+{: style="text-align: justify"}
+<p>&nbsp;</p>   
+
+* P. Clavier , H. Huix, A. Durmus 'VITS : Variational Inference Thomson Sampling for contextual bandits' **ICML**, 2024. [PDF](https://arxiv.org/abs/2307.10167){:target="_blank"})
 {: style="text-align: justify"}
 <p>&nbsp;</p> 
 
-* P. Clavier , E. Le Pennec, M. Geist . "Towards Minimax Optimality of Model-based Robust Reinforcement Learning" **Preprint**, 2023. ([PDF]([http://proceedings.mlr.press/v138/pierre20a.html](https://arxiv.org/abs/2302.05372)){:target="_blank"})
+* P. Clavier , E. Le Pennec, M. Geist . "Towards Minimax Optimality of Model-based Robust Reinforcement Learning" **UAI 2024 (oral)**, 2023. ([PDF]([http://proceedings.mlr.press/v138/pierre20a.html](https://arxiv.org/abs/2302.05372)){:target="_blank"})
 {: style="text-align: justify"}
 <p>&nbsp;</p>
 
 
-* P. Clavier, S. Allassonnière, E. Le Pennec. : "Robust Reinforcement Learning with Distributional Risk-averse formulation"
+* P. Clavier, S. Allassonnière, E. Le Pennec. : "Robust Reinforcement Learning with Distributional Risk-averse formulation"  **ICML 2022, Workshop in Responsible Decision Making in Dynamic Environments**
  ([PDF](https://arxiv.org/abs/2206.06841){:target="_blank"})
 [Video](https://user-images.githubusercontent.com/43342527/177513690-38202278-76db-42a5-9d68-2a159cfa80c7.mp4) [Illustration video](https://user-images.githubusercontent.com/43342527/177516762-03c0e52b-b77b-4684-8ea4-90786948ddee.mp4)
  <p>&nbsp;</p>
