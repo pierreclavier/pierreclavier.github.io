@@ -5,7 +5,7 @@ subtitle: About me
 show-avatar: False
 ---
 
-<img style="float: right;" src="/assets/img/linkedin_Pierre.jpg" width="300" hspace="30" vspace="30">
+<img style="float: right;" src="/assets/img/235884455_1285616981856117_4742695614606812531_n.png" width="300" hspace="30" vspace="30">
 {: style="text-align: justify"}
 Hello ! I am currently a PhD candidate in Machine Learning. I am working at [CMAP](https://portail.polytechnique.edu/cmap/fr/page-daccueil) in [Ecole polytechnique](https://www.polytechnique.edu/) supervised by [Stéphanie Allassonnière](https://sites.google.com/site/stephanieallassonniere/), [Erwan Le Pennec](http://www.cmap.polytechnique.fr/~lepennec/fr/) and [Matthieu Geist](https://scholar.google.com/citations?user=ectPLEUAAAAJ&hl=fr). I am also part of the [Inria](https://www.inria.fr/fr) Paris team [HeKA](https://team.inria.fr/heka/) focused on Health data and model-driven Knowledge Acquisition. Before this, I was a Master student in Mathematics and Machine Learning at [MVA](https://www.master-mva.com/) in [ENS Paris-Saclay](https://ens-paris-saclay.fr/).
 {: style="text-align: justify"}
