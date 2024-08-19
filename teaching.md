@@ -45,59 +45,6 @@ Rappel sur les chaines de Markov :
 <p>&nbsp;</p>
 
 
+<!---
 
-
-<!-- #2022 -->
-<div class="publications">
-    <h2 class="year">2022 - 2024</h2>
-        <div class="row">
-            <div class="col-sm-3 abbr">
-                ENS Paris-Saclay 
-            </div>
-            <div class="col-sm-8">
-                <div class="title"><b>Teaching Assistant in Computational Statistics</b></div>
-                <em>Second year of master, M2</em>
-            </div>
-        </div>
-</div>
-
-<!-- #2021 -->
-<div class="publications">
-        <div class="row">
-            <div class="col-sm-3 abbr">
-                Ecole polytechnique
-            </div>
-            <div class="col-sm-8">
-                <div class="title"><b>Teaching Assistant in Mathematical Modelling</b></div>
-               <em>L1</em>
-            </div>
-        </div>
-</div>
-<div class="publications">
-    <h2 class="year">2021 - 2022</h2>
-        <div class="row">
-            <div class="col-sm-3 abbr">
-                Ecole Polytechnique/HEC Paris Data Science for Business 
-            </div>
-            <div class="col-sm-8">
-                <div class="title"><b>Teaching Assistant in Regression Analysis</b></div>
-                <em>Master Level, M1</em>
-            </div>
-        </div>
-  
-</div>
-
-<!-- #before 2021 -->
-
-<div class="publications">
-    <h2 class="year">2020 - 2021</h2>
-        <div class="row">
-            <div class="col-sm-3 abbr">
-                Université de Paris
-            </div>
-            <div class="col-sm-8">
-                <div class="title"><b> Mathematical Analysis.</b></div>
-                <em>, 3rd year of Bachelor*</em>
-            </div>
-        </div>
-</div>
+-->
