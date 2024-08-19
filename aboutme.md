@@ -7,10 +7,10 @@ show-avatar: False
 
 <img style="float: right;" src="/assets/img/235884455_1285616981856117_4742695614606812531_n.png" width="300" hspace="30" vspace="30">
 {: style="text-align: justify"}
-Hello ! I am currently a PhD candidate in Machine Learning. I am working at [CMAP](https://portail.polytechnique.edu/cmap/fr/page-daccueil) in [Ecole polytechnique](https://www.polytechnique.edu/) supervised by [Stéphanie Allassonnière](https://sites.google.com/site/stephanieallassonniere/), [Erwan Le Pennec](http://www.cmap.polytechnique.fr/~lepennec/fr/) and [Matthieu Geist](https://scholar.google.com/citations?user=ectPLEUAAAAJ&hl=fr). I am also part of the [Inria](https://www.inria.fr/fr) Paris team [HeKA](https://team.inria.fr/heka/) focused on Health data and model-driven Knowledge Acquisition. Before this, I was a Master student in Mathematics and Machine Learning at [MVA](https://www.master-mva.com/) in [ENS Paris-Saclay](https://ens-paris-saclay.fr/).
+Hello ! I am currently a PhD candidate in Machine Learning. I am working at [CMAP](https://portail.polytechnique.edu/cmap/fr/page-daccueil) in [Ecole polytechnique](https://www.polytechnique.edu/) supervised by [Stéphanie Allassonnière](https://sites.google.com/site/stephanieallassonniere/), [Erwan Le Pennec](http://www.cmap.polytechnique.fr/~lepennec/fr/) and [Matthieu Geist](https://scholar.google.com/citations?user=ectPLEUAAAAJ&hl=fr). I am also part of the [Inria](https://www.inria.fr/fr) Paris team [HeKA](https://team.inria.fr/heka/) focused on Health data and model-driven Knowledge Acquisition. Before this, I was a Master student in Mathematics and Machine Learning at [MVA](https://www.master-mva.com/) in [ENS Paris-Saclay](https://ens-paris-saclay.fr/). From January to March 2024, I was a visiting researcher at [Caltech](https://www.caltech.edu/) in  the Computing + Mathematical Sciences Department, supervised by [Adam Wierman](https://adamwierman.com/) and [Eric Mazumdar](http://users.cms.caltech.edu/~mazumdar/).
 {: style="text-align: justify"}
 
-I am interested in systems at the intersection of mathematics and computation, and in having analytical insights into real-world applications, especially in healthcare-related problems.
+
 My current PhD subject is focused on trying to Robustify  **Reinforcement Learning**. Moreover, I have a great interest in:
 - **Robust and Risk-Averse Reinforcement Learning,** 
 - **Reinforcement Learning with Human Feedback,**
