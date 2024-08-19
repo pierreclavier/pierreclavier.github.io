@@ -8,11 +8,11 @@ show-avatar: True
 
 ### Students 
 
-**Elie Attian** : Ecole Polytechnique ( 3 months ), Bachelor Thesis : Risk-Averse Reinforcement Learning for medical applications.
+**Elie Attian**: Ecole Polytechnique ( 3 months ), Bachelor Thesis: Risk-Averse Reinforcement Learning for medical applications.
 
-I have several experiences as teaching asssitant :
+I have several experiences as a teaching assistant:
 
-### [MVA master](https://www.master-mva.com/), ENS Paris-Saclay (2022-2024) Computational Statistics, second year of Master.
+* ### [MVA master](https://www.master-mva.com/), ENS Paris-Saclay (2022-2024) Computational Statistics, second year of Master.
 <!---
 Rappel sur les chaines de Markov : 
 
@@ -31,7 +31,7 @@ Rappel sur les chaines de Markov :
 * TD 4: Sujet :[Compstats_MVA_TP4.pdf](https://github.com/pierreclavier/pierreclavier.github.io/files/13501813/Compstats_MVA_TP4.pdf)
 -->
 
- * ### Examiner for the entrance exams at HEC Paris (2021-2023)
+* ### Examiner for the entrance exams at HEC Paris (2021-2023)
 
 * ### Ecole Polytechnique/HEC Paris (2021-2022)
 
