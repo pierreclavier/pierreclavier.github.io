@@ -21,7 +21,7 @@ My current PhD subject is focused on trying to Robustify  **Reinforcement Learni
 
 News : 
 
-01/09/2024 : I am starting a PhD internship at **[Cohere](https://cohere.com/). I will work on RLHF (Reinforcement Learning with Human Feedback).
+01/09/2024 : I am starting a PhD internship at **[Cohere](https://cohere.com/)**. I will work on RLHF (Reinforcement Learning with Human Feedback).
 
 05/2024 : 3 new preprint out :  A new benchmark for Robust Reinforcement Learning: **[RRLS : Robust Reinforcement Learning Suite](https://arxiv.org/abs/2406.08406 )**, and two new Deep Robust Reinforcement Learning algorithms : [ExpectRL](https://arxiv.org/abs/2406.04081) and [TC-MDP](https://arxiv.org/html/2406.08395v1) !
 
