@@ -31,16 +31,16 @@ Rappel sur les chaines de Markov :
 * TD 4: Sujet :[Compstats_MVA_TP4.pdf](https://github.com/pierreclavier/pierreclavier.github.io/files/13501813/Compstats_MVA_TP4.pdf)
 -->
 
-### Examiner for the entrance exams at HEC Paris (2021-2023)
+ * ### Examiner for the entrance exams at HEC Paris (2021-2023)
 
-### Ecole Polytechnique/HEC Paris (2021-2022)
+* ### Ecole Polytechnique/HEC Paris (2021-2022)
 
-* Regression Analysis (Master Level X/HEC)
-* Mathematical Modelling (Bachelor Level at Ecole polytechnique)
+    * Regression Analysis (Master Level X/HEC)
+    * Mathematical Modelling (Bachelor Level at Ecole polytechnique)
 
-### Université de Paris (2020)
+* ### Université de Paris (2020)
 
-* Mathematical Analysis, 3rd year of Bachelor.
+    * Mathematical Analysis, 3rd year of Bachelor.
 
 <p>&nbsp;</p>
 
