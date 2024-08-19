@@ -11,7 +11,7 @@ show-avatar: True
 ## Publications
 
 
-* Adil Zouitine, David Bertoin, Pierre Clavier, Matthieu Geist, Emmanuel Rachelson : Time-Constrained Robust MDPs [PDF](https://arxiv.org/html/2406.08395v1){:target="_blank"})
+* Adil Zouitine, David Bertoin, Pierre Clavier, Matthieu Geist, Emmanuel Rachelson : Time-Constrained Robust MDPs ([PDF](https://arxiv.org/html/2406.08395v1){:target="_blank"})
 {: style="text-align: justify"}
 <p>&nbsp;</p>    
 
