@@ -13,6 +13,23 @@ show-avatar: True
 I have several experiences as a teaching assistant:
 
 * ### [MVA master](https://www.master-mva.com/), ENS Paris-Saclay (2022-2024) Computational Statistics, second year of Master.
+
+
+
+* ### Examiner for the entrance exams at HEC Paris (2021-2023)
+
+* ### Ecole Polytechnique/HEC Paris (2021-2022)
+
+    * Regression Analysis (Master Level X/HEC)
+    * Mathematical Modelling (Bachelor Level at Ecole polytechnique)
+
+* ### Université de Paris (2020)
+
+    * Mathematical Analysis, 3rd year of Bachelor.
+
+<p>&nbsp;</p>
+
+  
 <!---
 Rappel sur les chaines de Markov : 
 
@@ -29,22 +46,4 @@ Rappel sur les chaines de Markov :
 * TD 3: Sujet :[Compstats_MVA_TP3.pdf](https://github.com/pierreclavier/pierreclavier.github.io/files/13365662/Compstats_MVA_TP3.pdf)
 
 * TD 4: Sujet :[Compstats_MVA_TP4.pdf](https://github.com/pierreclavier/pierreclavier.github.io/files/13501813/Compstats_MVA_TP4.pdf)
--->
-
-* ### Examiner for the entrance exams at HEC Paris (2021-2023)
-
-* ### Ecole Polytechnique/HEC Paris (2021-2022)
-
-    * Regression Analysis (Master Level X/HEC)
-    * Mathematical Modelling (Bachelor Level at Ecole polytechnique)
-
-* ### Université de Paris (2020)
-
-    * Mathematical Analysis, 3rd year of Bachelor.
-
-<p>&nbsp;</p>
-
-
-<!---
-
 -->
