@@ -21,9 +21,9 @@ My current PhD subject is focused on trying to Robustify  **Reinforcement Learni
 
 News : 
 
-**10/2024** Two papers accepted at Neurips 2024, [TC-MDP](https://arxiv.org/html/2406.08395v1) a new algorithm for Robust Reinforcement Learning and a theoretical paper on optimal sample complexity of Robust MDPs written at Caltech with [Laixi](https://laixishi.github.io/) ( arkiv coming soon )! 
+**10/2024** : Two papers accepted at Neurips 2024, [TC-MDP](https://arxiv.org/html/2406.08395v1) a new algorithm for Robust Reinforcement Learning and a theoretical paper on optimal sample complexity of Robust MDPs written at Caltech with [Laixi](https://laixishi.github.io/) ( arkiv coming soon )! 
 
-**28/10/2024**  : I will be at the [17th European Workshop on Reinforcement Learning (EWRL 2024)](https://ewrl.wordpress.com/ewrl17-2024/) in Toulouse to present my two recent works on Deep Robust Reinforcement Learning : ExpectRL and TC-MDP algorithms.
+**28/10/2024** : I will be at the [17th European Workshop on Reinforcement Learning (EWRL 2024)](https://ewrl.wordpress.com/ewrl17-2024/) in Toulouse to present my two recent works on Deep Robust Reinforcement Learning : ExpectRL and TC-MDP algorithms.
 
 **09/2024** : I am starting a PhD internship at **[Cohere](https://cohere.com/)**. I will work on RLHF (Reinforcement Learning with Human Feedback).
 
