@@ -20,6 +20,9 @@ My current PhD subject is focused on trying to Robustify  **Reinforcement Learni
 {: style="text-align: justify"}
 
 News : 
+
+**12/2024**: I will attend Neurips 2024 in Vancouver, feel free to contact me to drink a coffee and talk about RL/ML stuff!
+
 **11/2024**: I successfully defended my PhD thesis, Robust reinforcement learning, Theory and Practice. Thanks to Shie Mannor, Rémi Munos, Eric Moulines, Michal Valko, Aurélien Garivier, and Ana Busic for their time to be part of my jury!
 
 **10/2024** : Two papers accepted at Neurips 2024, [TC-MDP](https://arxiv.org/html/2406.08395v1) a new algorithm for Robust Reinforcement Learning and a theoretical paper on optimal sample complexity of Robust MDPs written at Caltech with [Laixi](https://laixishi.github.io/) ( arkiv coming soon )! 
