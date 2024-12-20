@@ -45,13 +45,13 @@ show-avatar: True
 
 ## Conferences and Talks
 
-* **Neurips 2024**, Vancouver, December 2024
+* **Neurips 2024**, Vancouver, December 2024.
 
-* **EWRL 2024**, Toulouse, October 2024
+* **EWRL 2024**, Toulouse, October 2024.
 
-* **ICML 2024**, Vienna, July 2024
+* **ICML 2024**, Vienna, July 2024.
 
-* **UAI 2024, Oral**, Barcelona, July 2024
+* **UAI 2024, Oral**, Barcelona, July 2024.
   
 * **Journées des Statistiques, JDS 2024**, Bordeaux , June 2024.
 
