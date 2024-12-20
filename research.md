@@ -45,11 +45,15 @@ show-avatar: True
 
 ## Conferences and Talks
 
+* **Neurips 2024**, Vancouver, December 2024
+
+* **EWRL 2024**, Toulouse, October 2024
+
 * **ICML 2024**, Vienna, July 2024
 
 * **UAI 2024, Oral**, Barcelona, July 2024
   
-* **Journées des Statistiques, JDS 2024,**, Bordeaux , June 2024.
+* **Journées des Statistiques, JDS 2024**, Bordeaux , June 2024.
 
 * **Information Theory and Applications Workshop**, San Diego, March 2024
 
@@ -59,7 +63,7 @@ show-avatar: True
 
 * **[Summer School "Statistics and Learning Theory](http://mathschool.ysu.am/slt2023/)**, Tsaghkadzor, Armenia  July 2023.
 
-* **Journées des Statistiques, JDS 2023,**, Bruxelles , July 2023.
+* **Journées des Statistiques, JDS 2023**, Bruxelles , July 2023.
 
 * **International Conference in Robust statistics**, Toulouse, May 2023.
 
