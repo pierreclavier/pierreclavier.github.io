@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Pierre Clavier
-subtitle: About me
+subtitle: PhD in Reinforcement Learning 
 show-avatar: False
 ---
 
