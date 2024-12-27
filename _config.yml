@@ -6,7 +6,7 @@
 title: Pierre Clavier
 
 # Short description of your site
-description: Research Engineer at Sorbonne Universite
+description: PhD in Reinforcement Learning
 
 # Your name to show in the footer
 author: Pierre Clavier
@@ -18,11 +18,7 @@ navbar-links:
   Research: "research"
   Teaching: "teaching"
   
-  Project:
-    
-    - Alcov2 : http://www.cnrs.fr/fr/alcov2-une-enquete-de-grande-ampleur-pour-letude-de-la-transmission-de-sars-cov2-au-sein-des-foyers
   
-
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
