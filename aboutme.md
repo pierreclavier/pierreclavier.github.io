@@ -13,7 +13,7 @@ Hello ! I am a Research Scientist in Reinforcement Learning applied to Large Lan
 {: style="text-align: justify"}
 
 
-My PhD thesis (available [here](https://theses.hal.science/tel-04956954/) )focused on trying to Robustify  **Reinforcement Learning**. Moreover, I have a great interest currently in :
+My PhD thesis (available [here](https://theses.hal.science/tel-04956954/)) focused on trying to Robustify  **Reinforcement Learning**. Moreover, I have a great interest currently in :
 - **Reinforcement Learning with Human Feedback**
 - **Robust Reinforcement Learning,** 
 - **Bandit theory.** 
