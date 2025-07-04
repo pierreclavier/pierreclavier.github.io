@@ -9,20 +9,27 @@ show-avatar: False
 
 <img style="float: right;" src="/assets/img/235884455_1285616981856117_4742695614606812531_n.png" width="300" hspace="30" vspace="30">
 {: style="text-align: justify"}
-Hello ! I am a Research Scientist, working at [Cohere](https://cohere.com/) on Reinforcement Learning applied to Large Language Models. Before this, I was a PhD candidate in Machine Learning, working at [CMAP](https://portail.polytechnique.edu/cmap/fr/page-daccueil) in [Ecole polytechnique](https://www.polytechnique.edu/) supervised by [Stéphanie Allassonnière](https://sites.google.com/site/stephanieallassonniere/), [Erwan Le Pennec](http://www.cmap.polytechnique.fr/~lepennec/fr/) and working closely with [Matthieu Geist](https://scholar.google.com/citations?user=ectPLEUAAAAJ&hl=fr). I was also part of [HeKA](https://team.inria.fr/heka/) at [Inria](https://www.inria.fr/fr) Paris. Before this, I was a Master student in Mathematics and Machine Learning at [MVA](https://www.master-mva.com/) in [ENS Paris-Saclay](https://ens-paris-saclay.fr/). From January to March 2024, I was a visiting researcher at [Caltech](https://www.caltech.edu/) in  the Computing + Mathematical Sciences Department, supervised by [Adam Wierman](https://adamwierman.com/) and [Eric Mazumdar](http://users.cms.caltech.edu/~mazumdar/).
+Hello ! I am a Research Scientist, working at [Cohere](https://cohere.com/) on Reinforcement Learning applied to Large Language Models. Before this, I was a PhD candidate in Machine Learning, working at [CMAP](https://portail.polytechnique.edu/cmap/fr/page-daccueil) in [Ecole polytechnique](https://www.polytechnique.edu/) supervised by [Stéphanie Allassonnière](https://sites.google.com/site/stephanieallassonniere/), [Erwan Le Pennec](http://www.cmap.polytechnique.fr/~lepennec/fr/) and working closely with [Matthieu Geist](https://scholar.google.com/citations?user=ectPLEUAAAAJ&hl=fr). I was also part of [HeKA](https://team.inria.fr/heka/) at [Inria](https://www.inria.fr/fr) Paris.  I graduated from a Master in Mathematics and Machine Learning at [MVA](https://www.master-mva.com/) in [ENS Paris-Saclay](https://ens-paris-saclay.fr/). From January to March 2024, I was a visiting researcher at [Caltech](https://www.caltech.edu/) in  the Computing + Mathematical Sciences Department, supervised by [Adam Wierman](https://adamwierman.com/) and [Eric Mazumdar](http://users.cms.caltech.edu/~mazumdar/).
 {: style="text-align: justify"}
 
 
 My PhD thesis (available [here](https://theses.hal.science/tel-04956954/)) focused on trying to Robustify  **Reinforcement Learning**. Moreover, I have a great interest currently in :
 - **Reinforcement Learning with Human Feedback**
-- **Robust Reinforcement Learning,** 
-- **Bandit theory.** 
+- **Reinforcement Learning with Verifiable Reward** 
+- **Bandit theory**
+- **Sampling in general**  
 
 {: style="text-align: justify"}
 
 News : 
 
+**06/2025**: I was presenting [ShiQ](https://arxiv.org/abs/2505.11081) in UCL AI Center in London, thanks for the invitation.
+
+**05/2025**: New Preprint: [ShiQ](https://arxiv.org/abs/2505.11081) is a new RL algorithm inspired form Q-Learning but adapted to LLMs !
+
 **03/12**: I am starting a new position in Cohere as a Research Scientist in RL ! 
+
+**01/2025**: New AI model [Command A](https://arxiv.org/pdf/2504.00698v2) finetuned with beatiful and theoretically grouned RLHF algorithm : [CoPG](https://arxiv.org/abs/2406.19185) and [SRPO](https://arxiv.org/abs/2406.01660) . 
 
 **12/2024**: I will attend Neurips 2024 in Vancouver, feel free to contact me to drink a coffee and talk about RL/ML stuff!
 
