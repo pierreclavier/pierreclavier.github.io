@@ -23,7 +23,7 @@ My PhD thesis (available [here](https://theses.hal.science/tel-04956954/)) focus
 
 News : 
 
-**09/2025**:  [ShiQ](https://arxiv.org/abs/2505.11081) have been accepted to Neurips 2025 !
+**09/2025**:  [ShiQ](https://arxiv.org/abs/2505.11081) has been accepted to Neurips 2025 !
 
 **09/2025**: I was at EWRL in Tubingen, Germany to give a talk about : "Bringing back Bellman to LLMs". Thanks a lot to all organizers !
 
