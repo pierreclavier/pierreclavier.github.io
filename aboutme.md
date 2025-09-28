@@ -23,6 +23,10 @@ My PhD thesis (available [here](https://theses.hal.science/tel-04956954/)) focus
 
 News : 
 
+**09/2025**:  [ShiQ](https://arxiv.org/abs/2505.11081) have been accepted to Neurips 2025 !
+
+**09/2025**: I was at EWRL in Tubingen, Germany to give a talk about : "Bringing back Bellman to LLMs". Thanks a lot to all organizers !
+
 **06/2025**: I was presenting [ShiQ](https://arxiv.org/abs/2505.11081) in UCL AI Center in London, thanks for the invitation.
 
 **05/2025**: New Preprint: [ShiQ](https://arxiv.org/abs/2505.11081) is a new RL algorithm inspired form Q-Learning but adapted to LLMs !
