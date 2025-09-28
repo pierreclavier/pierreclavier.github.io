@@ -5,7 +5,7 @@ subtitle: Research Scientist in Reinforcement Learning
 show-avatar: False
 ---
 
-<img style="float: right;" src="assets/img/Day 1 - Talk - Pierre Clavier 2.JPG" width="300" hspace="30" vspace="30">
+<img style="float: right;" src="assets/img/ewrl_pierre_clavier1.JPG" width="300" hspace="30" vspace="30">
 ![Day 1 - Talk - Pierre Clavier 2](https://github.com/user-attachments/assets/62f74c9e-73e7-4e0e-8d14-63c171d37b6e)
 %%%%<img style="float: right;" src="assets/img/Day 1 - Talk - Pierre Clavier 2.JPG" width="300" hspace="30" vspace="30">
 {: style="text-align: justify"}
