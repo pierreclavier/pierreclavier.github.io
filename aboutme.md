@@ -5,7 +5,14 @@ subtitle: Research Scientist in Reinforcement Learning
 show-avatar: False
 ---
 
-<img style="float: right;" src="assets/img/ewrl_pierre_clavier1.JPG">
+
+
+<img src="https://github.com/user-attachments/assets/ac79496d-b3cc-47a8-a1b6-2b5cb31f2f3f" 
+     width="300" 
+     hspace="30" 
+     vspace="30" 
+     alt="ewrl_pierre_clavier1">
+
 {: style="text-align: justify"}
 Hello ! I am a Research Scientist, working at [Cohere](https://cohere.com/) on Reinforcement Learning applied to Large Language Models. Before this, I was a PhD candidate in Machine Learning, working at [CMAP](https://portail.polytechnique.edu/cmap/fr/page-daccueil) in [Ecole polytechnique](https://www.polytechnique.edu/) supervised by [Stéphanie Allassonnière](https://sites.google.com/site/stephanieallassonniere/), [Erwan Le Pennec](http://www.cmap.polytechnique.fr/~lepennec/fr/) and working closely with [Matthieu Geist](https://scholar.google.com/citations?user=ectPLEUAAAAJ&hl=fr). I was also part of [HeKA](https://team.inria.fr/heka/) at [Inria](https://www.inria.fr/fr) Paris.  I graduated from a Master in Mathematics and Machine Learning at [MVA](https://www.master-mva.com/) in [ENS Paris-Saclay](https://ens-paris-saclay.fr/). From January to March 2024, I was a visiting researcher at [Caltech](https://www.caltech.edu/) in  the Computing + Mathematical Sciences Department, supervised by [Adam Wierman](https://adamwierman.com/) and [Eric Mazumdar](http://users.cms.caltech.edu/~mazumdar/).
 {: style="text-align: justify"}
