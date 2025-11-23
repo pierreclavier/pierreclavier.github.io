@@ -29,7 +29,7 @@ News :
 
 **11/2025**: I will be in [Neurips in Paris](https://scai.sorbonne-universite.fr/public/events/view/51b41aa2d5ea30096fc8/8) on the 25th of November and in Neurips too in San Diego. 
 
-**09/2025**:  [ShiQ](https://arxiv.org/abs/2505.11081) has been accepted to Neurips 2025 !
+**09/2025**:  [ShiQ](https://arxiv.org/abs/2505.11081) has been accepted to Neurips 2025 ! Here a [talk on Youtube](https://www.youtube.com/watch?v=thSHPsoUXhk&t=1s) on the subject it from Cohere Labs! 
 
 **09/2025**: I was at EWRL in Tubingen, Germany to give a talk about : "Bringing back Bellman to LLMs". Thanks a lot to all organizers !
 
