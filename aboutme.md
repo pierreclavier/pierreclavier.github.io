@@ -27,6 +27,8 @@ My PhD thesis (available [here](https://theses.hal.science/tel-04956954/)) focus
 
 News : 
 
+**11/25** It was a pleasure to give a class about Post Training LLMs with Reinforcement Learning at Ecole Polytechnique. Thanks [Luiz Chamon](https://luizchamon.com/) for the invitation.
+
 **11/2025**: I will be in [Neurips in Paris](https://scai.sorbonne-universite.fr/public/events/view/51b41aa2d5ea30096fc8/8) on the 25th of November and in Neurips too in San Diego. 
 
 **09/2025**:  [ShiQ](https://arxiv.org/abs/2505.11081) has been accepted to Neurips 2025 ! A [talk on Youtube](https://www.youtube.com/watch?v=thSHPsoUXhk&t=1s) about ShiQ from Cohere Labs is also available! 
